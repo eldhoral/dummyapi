@@ -45,7 +45,7 @@
             "Magelang"
         ]
     },
-    "id_province": {
+    "idProvince": {
         "string": [
             "1",
             "1",
@@ -63,7 +63,7 @@
             "Magelang Tengah"
         ]
     },
-    "id_city": {
+    "idCity": {
         "string": [
             "1",
             "2",
@@ -81,7 +81,7 @@
             "Cacaban"
         ]
     },
-    "id_districts": {
+    "idDistricts": {
         "string": [
             "1",
             "2",
@@ -99,7 +99,7 @@
             "14143"
         ]
     },
-    "id_urban": {
+    "idUrban": {
         "string": [
             "1",
             "2",

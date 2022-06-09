@@ -1,0 +1,179 @@
+{
+    "ownership_residence": [
+        {
+            "id": "T",
+            "keterangan": "BUKAN_MILIK_PRIBADI",
+            "label": "Bukan Milik Pribadi"
+        },
+        {
+            "id": "Y",
+            "keterangan": "MILIK_PRIBADI",
+            "label": "Milik Pribadi"
+        }
+    ],
+    "marital_status": [
+        {
+            "id": "D",
+            "keterangan": "JANDA_DUDA",
+            "label": "Janda Duda"
+        },
+        {
+            "id": "B",
+            "keterangan": "LAJANG_BELUM_MENIKAH",
+            "label": "Lajang Belum Menikah"
+        },
+        {
+            "id": "K",
+            "keterangan": "MENIKAH",
+            "label": "Menikah"
+        }
+    ],
+    "last_education": [
+        {
+            "id": "6",
+            "keterangan": "LAINNYA_",
+            "label": "Lainnya "
+        },
+        {
+            "id": "1",
+            "keterangan": "SD",
+            "label": "Sd"
+        },
+        {
+            "id": "3",
+            "keterangan": "SMA",
+            "label": "Sma"
+        },
+        {
+            "id": "2",
+            "keterangan": "SMP",
+            "label": "Smp"
+        },
+        {
+            "id": "4",
+            "keterangan": "S_1",
+            "label": "S 1"
+        },
+        {
+            "id": "5",
+            "keterangan": "S_2",
+            "label": "S 2"
+        }
+    ],
+    "province": [
+        {
+            "id": "1",
+            "keterangan": "JAWA_BARAT",
+            "label": "Jawa Barat"
+        },
+        {
+            "id": "2",
+            "keterangan": "JAWA_TENGAH",
+            "label": "Jawa Tengah"
+        }
+    ],
+    "city": [
+        {
+            "id": "1",
+            "keterangan": "BANDUNG",
+            "label": "Bandung",
+            "id_province": "1"
+        },
+        {
+            "id": "2",
+            "keterangan": "BEKASI",
+            "label": "Bekasi",
+            "id_province": "1"
+        },
+        {
+            "id": "3",
+            "keterangan": "SEMARANG",
+            "label": "Semarang",
+            "id_province": "2"
+        },
+        {
+            "id": "4",
+            "keterangan": "MAGELANG",
+            "label": "Magelang",
+            "id_province": "2"
+        }
+    ],
+    "districts": [
+        {
+            "id": "1",
+            "keterangan": "BANDUNG_BARAT",
+            "label": "Bandung Barat",
+            "id_city": "1"
+        },
+        {
+            "id": "2",
+            "keterangan": "BEKASI_BARAT",
+            "label": "Bekasi Barat",
+            "id_city": "2"
+        },
+        {
+            "id": "3",
+            "keterangan": "SEMARANG_BARAT",
+            "label": "Semarang Barat",
+            "id_city": "3"
+        },
+        {
+            "id": "4",
+            "keterangan": "MAGELANG_TENGAH",
+            "label": "Magelang Tengah",
+            "id_city": "4"
+        }
+    ],
+    "urban": [
+        {
+            "id": "1",
+            "keterangan": "BATUJAJAR",
+            "label": "Batujajar",
+            "id_districts": "1"
+        },
+        {
+            "id": "2",
+            "keterangan": "BINTARA_JAYA",
+            "label": "Bintara Jaya",
+            "id_districts": "2"
+        },
+        {
+            "id": "3",
+            "keterangan": "KEMBANGARUM",
+            "label": "Kembangarum",
+            "id_districts": "3"
+        },
+        {
+            "id": "4",
+            "keterangan": "CACABAN",
+            "label": "Cacaban",
+            "id_districts": "4"
+        }
+    ],
+    "postal_code": [
+        {
+            "id": "1",
+            "keterangan": "14140",
+            "label": "14141",
+            "id_urban": "1"
+        },
+        {
+            "id": "2",
+            "keterangan": "14141",
+            "label": "14141",
+            "id_districts": "2"
+        },
+        {
+            "id": "3",
+            "keterangan": "14142",
+            "label": "14142",
+            "id_districts": "3"
+        },
+        {
+            "id": "4",
+            "keterangan": "14143",
+            "label": "14143",
+            "id_districts": "4"
+        }
+    ]
+}

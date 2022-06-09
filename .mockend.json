@@ -1,115 +1,115 @@
 {
-    "OwnershipResidence": {
-        "keterangan": {
-            "string": [
-                "Bukan Milik Pribadi",
-                "Milik Pribadi"
-            ]
-        }
-    },
-    "MaritalStatus": {
-        "keterangan": {
-            "string": [
-                "Lajang Belum Menikah",
-                "Janda Duda",
-                "Menikah"
-            ]
-        }
-    },
-    "LastEducation": {
-        "keterangan": {
-            "string": [
-                "Sd",
-                "Smp",
-                "Sma",
-                "S 1",
-                "S 2",
-                "Lainnya"
-            ]
-        }
-    },
-    "Province": {
-        "keterangan": {
-            "string": [
-                "Jawa Barat",
-                "Jawa Tengah",
-                "Sma",
-                "S 1",
-                "S 2",
-                "Lainnya"
-            ]
-        }
-    },
-    "City": {
-        "keterangan": {
-            "string": [
-                "Bandung",
-                "Bekasi",
-                "Semarang",
-                "Magelang"
-            ]
-        },
-        "id_province": {
-            "string": [
-                "1",
-                "1",
-                "2",
-                "2"
-            ]
-        }
-    },
-    "Districts": {
-        "keterangan": {
-            "string": [
-                "Bandung Barat",
-                "Bekasi Barat",
-                "Semarang Barat",
-                "Magelang Tengah"
-            ]
-        },
-        "id_city": {
-            "string": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ]
-        }
-    },
-    "Urban": {
-        "keterangan": {
-            "string": [
-                "Batujajar",
-                "Bintara Jaya",
-                "Kembangarum",
-                "Cacaban"
-            ]
-        },
-        "id_districts": {
-            "string": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ]
-        }
-    },
-    "PostalCode": {
-        "keterangan": {
-            "string": [
-                "14140",
-                "14141",
-                "14142",
-                "14143"
-            ]
-        },
-        "id_urban": {
-            "string": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ]
-        }
+"OwnershipResidence": {
+    "keterangan": {
+        "string": [
+            "Bukan Milik Pribadi",
+            "Milik Pribadi"
+        ]
     }
+},
+"MaritalStatus": {
+    "keterangan": {
+        "string": [
+            "Lajang Belum Menikah",
+            "Janda Duda",
+            "Menikah"
+        ]
+    }
+},
+"LastEducation": {
+    "keterangan": {
+        "string": [
+            "Sd",
+            "Smp",
+            "Sma",
+            "S 1",
+            "S 2",
+            "Lainnya"
+        ]
+    }
+},
+"Province": {
+    "keterangan": {
+        "string": [
+            "Jawa Barat",
+            "Jawa Tengah",
+            "Sma",
+            "S 1",
+            "S 2",
+            "Lainnya"
+        ]
+    }
+},
+"City": {
+    "keterangan": {
+        "string": [
+            "Bandung",
+            "Bekasi",
+            "Semarang",
+            "Magelang"
+        ]
+    },
+    "id_province": {
+        "string": [
+            "1",
+            "1",
+            "2",
+            "2"
+        ]
+    }
+},
+"Districts": {
+    "keterangan": {
+        "string": [
+            "Bandung Barat",
+            "Bekasi Barat",
+            "Semarang Barat",
+            "Magelang Tengah"
+        ]
+    },
+    "id_city": {
+        "string": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    }
+},
+"Urban": {
+    "keterangan": {
+        "string": [
+            "Batujajar",
+            "Bintara Jaya",
+            "Kembangarum",
+            "Cacaban"
+        ]
+    },
+    "id_districts": {
+        "string": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    }
+},
+"PostalCode": {
+    "keterangan": {
+        "string": [
+            "14140",
+            "14141",
+            "14142",
+            "14143"
+        ]
+    },
+    "id_urban": {
+        "string": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    }
+}
 }

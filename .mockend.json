@@ -1,5 +1,5 @@
 {
-"OwnershipResidence": {
+"Residence": {
     "keterangan": {
         "string": [
             "Bukan Milik Pribadi",
@@ -7,7 +7,7 @@
         ]
     }
 },
-"MaritalStatus": {
+"Marital": {
     "keterangan": {
         "string": [
             "Lajang Belum Menikah",
@@ -16,7 +16,7 @@
         ]
     }
 },
-"LastEducation": {
+"Education": {
     "keterangan": {
         "string": [
             "Sd",

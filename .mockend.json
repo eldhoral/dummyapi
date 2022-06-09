@@ -1,5 +1,5 @@
 {
-    "ownership_residence": [
+    "OwnershipResidence": [
         {
             "id": "T",
             "keterangan": "BUKAN_MILIK_PRIBADI",
@@ -28,7 +28,7 @@
             "label": "Menikah"
         }
     ],
-    "last_education": [
+    "LastEducation": [
         {
             "id": "6",
             "keterangan": "LAINNYA_",
@@ -60,7 +60,7 @@
             "label": "S 2"
         }
     ],
-    "province": [
+    "Province": [
         {
             "id": "1",
             "keterangan": "JAWA_BARAT",
@@ -72,7 +72,7 @@
             "label": "Jawa Tengah"
         }
     ],
-    "city": [
+    "City": [
         {
             "id": "1",
             "keterangan": "BANDUNG",
@@ -98,7 +98,7 @@
             "id_province": "2"
         }
     ],
-    "districts": [
+    "Districts": [
         {
             "id": "1",
             "keterangan": "BANDUNG_BARAT",
@@ -124,7 +124,7 @@
             "id_city": "4"
         }
     ],
-    "urban": [
+    "Urban": [
         {
             "id": "1",
             "keterangan": "BATUJAJAR",
@@ -150,7 +150,7 @@
             "id_districts": "4"
         }
     ],
-    "postal_code": [
+    "PostalCode": [
         {
             "id": "1",
             "keterangan": "14140",

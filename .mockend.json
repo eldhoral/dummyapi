@@ -54,7 +54,7 @@
         ]
     }
 },
-"Districts": {
+"District": {
     "keterangan": {
         "string": [
             "Bandung Barat",
@@ -81,7 +81,7 @@
             "Cacaban"
         ]
     },
-    "idDistricts": {
+    "idDistrict": {
         "string": [
             "1",
             "2",
